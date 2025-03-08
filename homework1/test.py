@@ -2,7 +2,7 @@ import unittest
 import subprocess
 from main import getresult
 from main import getfiledata
-from main import mainfunction
+
 
 class MyTestCase(unittest.TestCase):
     @unittest.expectedFailure
